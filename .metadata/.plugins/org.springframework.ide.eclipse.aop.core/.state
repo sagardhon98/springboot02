@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="ws06-exception_handling_poc"/>
+<aop-project name="ws09-jwt_token"/>
+<aop-project name="ws10-tdd_test"/>
+<aop-project name="ws07-spring_security"/>
+<aop-project name="ws05-crud_using_h2"/>
+<aop-project name="ws08-spring_security_example"/>
+<aop-project name="ws02-request_http_POST"/>
+<aop-project name="ws01-simpleAPI"/>
+<aop-project name="ws04-http_methods"/>
+<aop-project name="ws03-response_architecture"/>
+<aop-project name="ws11-testing_MokitoAndJacoco"/>
+</aop-reference-model>

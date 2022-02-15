@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.ci.config.SwaggerConfiguration&apos; to &apos;SwaggerConfig&apos;&#x0D;&#x0A;- Original project: &apos;ws11-testing_MokitoAndJacoco&apos;&#x0D;&#x0A;- Original element: &apos;com.ci.config.SwaggerConfiguration&apos;&#x0D;&#x0A;- Renamed element: &apos;com.ci.config.SwaggerConfig&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SwaggerConfiguration&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.ci.config{SwaggerConfiguration.java[SwaggerConfiguration" matchStrategy="1" name="SwaggerConfig" qualified="false" references="true" similarDeclarations="false" stamp="1639494498981" textual="false" version="1.0"/>
+</session>

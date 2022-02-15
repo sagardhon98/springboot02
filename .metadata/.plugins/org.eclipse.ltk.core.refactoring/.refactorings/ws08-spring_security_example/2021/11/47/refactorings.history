@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.ci.config.SecurityConfig&apos; to &apos;SecurityConfigJDBC&apos;&#x0D;&#x0A;- Original project: &apos;ws08-spring_security_example&apos;&#x0D;&#x0A;- Original element: &apos;com.ci.config.SecurityConfig&apos;&#x0D;&#x0A;- Renamed element: &apos;com.ci.config.SecurityConfigJDBC&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SecurityConfig&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.ci.config{SecurityConfig.java[SecurityConfig" matchStrategy="1" name="SecurityConfigJDBC" qualified="false" references="true" similarDeclarations="false" stamp="1636983263949" textual="false" version="1.0"/>
+</session>
